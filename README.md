@@ -132,7 +132,7 @@ Asynchronous FIFOs are commonly used in:
 # Tools Used
 
 - Verilog HDL
-- FPGA / RTL Simulation Tools (Vivado / ModelSim)
+- RTL Simulation Tools (Vivado)
 
 ---
 
